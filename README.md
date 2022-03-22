@@ -8,7 +8,7 @@
 
 
 ## Back-end Project Repository
-(hello-rails-back-end)[https://github.com/ShahierNashaat/hello-rails-back-end.git]
+[hello-rails-back-end](https://github.com/ShahierNashaat/hello-rails-back-end.git)
 
 
 ## Built With
