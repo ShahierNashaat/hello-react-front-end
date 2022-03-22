@@ -14,7 +14,7 @@ export const fetchmessage = () => async (dispatch) => {
     .then((response) => response.json())
     .then((data) => {
       dispatch({ type: 'COMPLETE_MESSAGE', payload: data });
-    })
+    });
 };
 
 export default messageReducer;

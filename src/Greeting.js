@@ -10,7 +10,6 @@ const Greeting = () => {
   }, []);
 
   const message = useSelector((state) => state.messageReducer);
-  console.log('message => ', message);
 
   return (
     <div>
